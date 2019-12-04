@@ -17,6 +17,10 @@ html {
   line-height: 1.4;
 }
 
+body {
+  background-color: #111014;
+}
+
 .col-lg-12 {
   padding: 50px;
 }
@@ -33,13 +37,6 @@ html {
 
 #header-box {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif");
-}
-
-#header-box h1 {
-  position: absolute;
-  top: 35%;
-  left: 25%;
-
 }
 
 #link-box {
@@ -73,7 +70,6 @@ html {
 }
 
 #logo {
-  float: left;
   height: 200px;
   width: 200px;
 }
